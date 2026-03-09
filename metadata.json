@@ -1,0 +1,5 @@
+{
+  "name": "Noodle Master QA Hub",
+  "description": "A centralized ERP and QA dashboard for noodle manufacturing, featuring multi-tier security and real-time production tracking.",
+  "requestFramePermissions": []
+}
